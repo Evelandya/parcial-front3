@@ -1,6 +1,6 @@
 import Form from "./components/form/Form";
 import Card from "./components/card/Card";
-import Footer from "./components/Footer/Footer";
+import Footer from "./components/footer/Footer";
 import { useState } from "react";
 
 function App() {
